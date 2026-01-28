@@ -1,1 +1,1 @@
-This repository contains data associated with the study "Diel variation of CO2 concentrations is substantial in Australian irrigation dams", which is currently submitted to the Journal of Geophysical Research: Biogeosciences.
+This repository contains data associated with the study "Diel variation of CO2 concentrations is substantial in Australian irrigation dams", which is currently under review at the Journal of Geophysical Research: Biogeosciences.
